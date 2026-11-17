@@ -1,0 +1,4 @@
+
+bloom breach
+
+https://staging-core.dxpapi.com/api/v1/core/?account_id=6497&auth_key=9ks73c45ivpo2671&domain_key=globalindustrial&url=globalindustrial&fl=pid,skuid,hero_skuid,pcs_rating,pcs_num_ratings,pcs_featured_attr&request_type=search&search_type=category&view_id=US&rows=42&start=0&request_id=1751377516121&_br_uid_2=dummy&q=RIAG
